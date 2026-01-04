@@ -1,5 +1,3 @@
-# OpenCV-FaceRecognition
-
 # Dispositivo de seguridad con reconocimiento facial y detección de arma (OpenCV + MediaPipe)
 
 ## Introducción
