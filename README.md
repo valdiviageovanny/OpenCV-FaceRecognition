@@ -29,8 +29,6 @@ La solución se implementa en **Python**, usando **MediaPipe** para detección f
 5. Registro de evidencia:
    - Cada ~1 segundo se guarda una imagen del rostro en `Rostros detectados/rostro_#.jpg`.
 
-![Arquitectura del sistema](docs/img/arquitectura_bravo.png)
-
 ---
 
 ## Resultados
@@ -47,7 +45,9 @@ Incluye capturas reales ejecutando el programa:
 3. Ventana `arma_detectada` (recorte del objeto).
 4. Carpeta `Rostros detectados/` mostrando varios archivos guardados.
 
-![Ejemplo de evidencias](docs/img/guardadas.png)
+![Ejemplo de evidencias](img/imagen1.png)
+![Deteccion sin gorra](img/imagen2.png)
+![Ejemplo con gorra](img/guardadas.png)
 
 ---
 
