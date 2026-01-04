@@ -45,8 +45,8 @@ Incluye capturas reales ejecutando el programa:
 3. Ventana `arma_detectada` (recorte del objeto).
 4. Carpeta `Rostros detectados/` mostrando varios archivos guardados.
 
-![Ejemplo de evidencias](img/imagen1.png)
-![Deteccion sin gorra](img/imagen2.png)
+![Ejemplo de evidencias](img/Imagen1.png)
+![Deteccion sin gorra](img/Imagen2.png)
 ![Ejemplo con gorra](img/guardadas.png)
 
 ---
